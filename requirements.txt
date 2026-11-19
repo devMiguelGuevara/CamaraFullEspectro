@@ -1,0 +1,6 @@
+# Versiones probadas con Python 3.13 (C:\Python313), que es el que usa "Abrir camara.bat"
+opencv-python==5.0.0.93
+numpy==2.5.3
+Pillow==12.2.0
+# Solo para consultar_usb.py (acceso USB de bajo nivel)
+libusb1==3.4.0

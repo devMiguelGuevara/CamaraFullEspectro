@@ -1,0 +1,24 @@
+# Fotos y videos capturados (personales)
+capturas/
+*.avi
+*.mp4
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Claves y configuración local
+.env
+.env.*
+!.env.example
+
+# Editores y sistema
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.log
